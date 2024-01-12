@@ -1,4 +1,4 @@
-# - SpookyBoo - Plugin (Bukkit/Spigot)
+# 🎃 - SpookyBoo - Plugin (Bukkit/Spigot)
 
 Have you ever imagined a view in the sky full of mysteries and fun?
 Introducing our exclusive event plugin for
@@ -18,8 +18,6 @@ revealed in this text, but here are the main ones.
 - **[Basic Commands]** - We have some basic commands
 - for the OPs, they include understanding the plugin.
 
-<div>
 To report a bug, enter in my Discord:
 Please, respect.
-https://discord.gg/S2ajTFFp
-</div>
+> https://discord.gg/S2ajTFFp
