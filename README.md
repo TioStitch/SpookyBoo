@@ -18,6 +18,19 @@ revealed in this text, but here are the main ones.
 - **[Basic Commands]** - We have some basic commands
 - for the OPs, they include understanding the plugin.
 
+# 🛠️ - Working Now
+
+Features in work.
+- [ ] Add Configuration
+- [ ] Add Developer API
+- [ ] Make a plugin optimization
+- [ ] Make more items and controllers
+- [ ] Add a database for players
+- [ ] Multi-language Support
+    - [ ] English
+    - [ ] Portuguese
+    - [ ] Spanish
+
 To report a bug, enter in my Discord:
 Please, respect.
 > https://discord.gg/S2ajTFFp
