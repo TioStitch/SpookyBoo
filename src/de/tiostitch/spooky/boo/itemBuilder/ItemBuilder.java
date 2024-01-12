@@ -2,7 +2,6 @@ package de.tiostitch.spooky.boo.itemBuilder;
 
 import com.mojang.authlib.GameProfile;
 import com.mojang.authlib.properties.Property;
-import de.tiostitch.spooky.boo.itemBuilder.items.Dinheiro_Do_Vip;
 import de.tiostitch.spooky.boo.itemBuilder.items.Green_Candy;
 import de.tiostitch.spooky.boo.itemBuilder.items.Items;
 import de.tiostitch.spooky.boo.itemBuilder.items.Launch_Firework;
@@ -24,9 +23,6 @@ public final class ItemBuilder {
                 break;
             case GREEN_CANDY:
                 myItem = new Green_Candy();
-                break;
-            case DINHEIRO_DO_VIP:
-                myItem = new Dinheiro_Do_Vip();
                 break;
         }
         ItemStack iS = new ItemStack(myItem.getType(), 1, myItem.getData());
