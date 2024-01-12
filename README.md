@@ -7,7 +7,7 @@ Sky Block, or any other minigame, this is our plugin:
 - **[We won't charge you anything for this plugin, you can use our code].**
 - **[Give me credit if possible, it helps a lot to publicize my work.]**
 
-- Features
+# 🔗 - Features
 
 Our plugin has functions that have already been sort of
 revealed in this text, but here are the main ones.
@@ -18,6 +18,8 @@ revealed in this text, but here are the main ones.
 - **[Basic Commands]** - We have some basic commands
 - for the OPs, they include understanding the plugin.
 
+<div>
 To report a bug, enter in my Discord:
 Please, respect.
 https://discord.gg/S2ajTFFp
+</div>
