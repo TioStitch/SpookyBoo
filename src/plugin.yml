@@ -1,0 +1,8 @@
+name: SpookyBoo
+version: 1.0
+main: de.tiostitch.spooky.boo.Main
+description: Bat Firework like a famous Sky Block.
+commands:
+  spookyevent:
+    aliases: [spooky, se]
+    description: Principal plugin manager command.
